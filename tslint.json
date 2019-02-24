@@ -1,0 +1,8 @@
+{
+    "extends": "tslint-etc",
+    "rules": {
+        "no-assign-mutated-array": { "severity": "error" },
+        "no-unused-declaration": { "severity": "error" },
+        "throw-error": { "severity": "error" }
+    }
+}
